@@ -1,1 +1,3 @@
-# Plantopia_D2
+# Plantopia
+
+CSE301 Course Project
